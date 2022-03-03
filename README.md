@@ -2,7 +2,7 @@
 
 SETUP 1:
 
-![](https://github.com/mbloom707/Database-Checkpoint/blob/66d86bd2b42c3e81e804010c08648b32a32ad5c/img/Setup%201.png?raw=true)
+![](https://github.com/mbloom707/Database-Checkpoint/blob/main/img/Setup%201.png)
 
 
 SETUP 2:
